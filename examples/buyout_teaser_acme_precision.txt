@@ -1,0 +1,123 @@
+CONFIDENTIAL INFORMATION MEMORANDUM
+Project Falcon — Acme Precision Components GmbH
+Prepared by: Rothenberg & Klein M&A Advisory | March 2026
+
+================================================================================
+EXECUTIVE SUMMARY
+================================================================================
+
+Acme Precision Components GmbH ("Acme" or the "Company") is a German precision
+engineering manufacturer headquartered in Stuttgart, Baden-Württemberg. Founded
+in 1987, Acme produces high-tolerance hydraulic and pneumatic components for
+the automotive Tier 1, industrial machinery, and medical devices sectors.
+
+The Company's controlling shareholders (the founding Brenner family, holding
+73%) are seeking to retire and are inviting PE sponsors to acquire a majority
+stake or full control of the business via a leveraged buyout transaction.
+
+================================================================================
+COMPANY OVERVIEW
+================================================================================
+
+Company:        Acme Precision Components GmbH
+Headquarters:   Stuttgart, Germany
+Founded:        1987
+Industry:       Precision Engineering / Industrial Manufacturing
+Sector:         Automotive & Industrial Components
+Employees:      412 (as of December 2025)
+Facilities:     3 manufacturing sites (Stuttgart, Ulm, Wrocław, Poland)
+
+Key customers include Bosch, ZF Friedrichshafen, and Siemens Energy. No single
+customer accounts for more than 18% of revenue. The customer base is highly
+sticky: average customer tenure exceeds 11 years and the Company holds
+multi-year supply agreements with its top 5 customers.
+
+================================================================================
+FINANCIAL HIGHLIGHTS — FY2025 (Audited)
+================================================================================
+
+Revenue:                €87.4M
+  - Automotive:         €49.2M (56%)
+  - Industrial:         €26.1M (30%)
+  - Medical Devices:    €12.1M (14%)
+
+EBITDA:                 €19.3M
+EBITDA Margin:          22.1%
+
+EBIT:                   €14.7M
+Net Income:             €9.8M
+
+Revenue Growth (YoY):   +8.3% (FY2024: €80.7M)
+3-Year Revenue CAGR:    +7.1%
+
+Capital Expenditure:    €4.2M (4.8% of revenue; predominantly maintenance capex)
+Free Cash Flow:         €13.6M
+
+Net Debt (Dec 2025):    €11.2M
+Leverage Ratio:         0.58x Net Debt / EBITDA
+
+Working Capital:        €14.8M (17% of revenue)
+Receivables DSO:        47 days
+Inventory Turns:        5.8x
+
+================================================================================
+DEAL STRUCTURE
+================================================================================
+
+Transaction Type:       Leveraged Buyout (LBO) — majority or full control
+Offer Structure:        The Sellers will accept both 100% and majority (≥60%)
+                        stake offers. A management rollover of up to 15% is
+                        available and encouraged.
+
+Indicative EV Range:    €115M – €135M (based on 6.0x – 7.0x EV/EBITDA)
+Financing:              Vendor has engaged Commerzbank and UniCredit for senior
+                        debt commitments. Indicative senior leverage: ~3.5x EBITDA.
+
+Management:             The existing CEO (Klaus Brenner, son of the founder) will
+                        remain in post. The CFO and Head of Operations have both
+                        confirmed their intention to stay.
+
+================================================================================
+INVESTMENT HIGHLIGHTS
+================================================================================
+
+1. RECESSION-RESILIENT REVENUE BASE
+   Long-term supply contracts with Tier 1 automotive OEMs and regulated medical
+   device manufacturers provide high revenue visibility. 78% of FY2025 revenue
+   was under multi-year contracts.
+
+2. HIGH BARRIERS TO ENTRY
+   Customer qualification processes in automotive and medical devices take 18–36
+   months. Acme has ISO 9001:2015, IATF 16949, and ISO 13485 certifications.
+
+3. STRONG CASH CONVERSION
+   EBITDA-to-FCF conversion of ~70% reflects low maintenance capex requirements
+   and disciplined working capital management.
+
+4. MARGIN EXPANSION OPPORTUNITY
+   Integration of the Wrocław facility (opened 2023) is expected to deliver
+   €1.8M–€2.4M of incremental EBITDA by FY2027 as utilisation ramps.
+
+5. FRAGMENTED MARKET WITH BOLT-ON POTENTIAL
+   The European precision components sector is highly fragmented. Management
+   has identified three potential bolt-on targets with combined revenue of
+   approximately €40M.
+
+================================================================================
+PROCESS TIMELINE
+================================================================================
+
+First-round bids:           15 April 2026
+Management presentations:   May 2026
+Final bids:                 30 June 2026
+Exclusivity / signing:      Q3 2026
+Completion:                 Q4 2026
+
+================================================================================
+DISCLAIMER
+================================================================================
+
+This document is strictly confidential and is provided solely for the purpose
+of evaluating a potential transaction. Recipients may not reproduce or distribute
+this document without prior written consent of Rothenberg & Klein M&A Advisory.
+All financial figures are based on audited accounts unless otherwise stated.

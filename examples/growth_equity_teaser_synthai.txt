@@ -1,0 +1,152 @@
+INVESTMENT TEASER — STRICTLY CONFIDENTIAL
+Project Nebula | SynthAI Analytics Ltd.
+Lead Advisor: Meridian Growth Capital | March 2026
+
+================================================================================
+OPPORTUNITY OVERVIEW
+================================================================================
+
+SynthAI Analytics Ltd. ("SynthAI" or the "Company") is a UK-based B2B SaaS
+platform providing AI-powered supply chain intelligence to mid-market and
+enterprise manufacturers in Europe and North America. The Company is seeking a
+Series B growth equity investment of £18M–£22M to accelerate its go-to-market
+expansion into the DACH region and fund a 40-person headcount increase across
+product and sales.
+
+The round values the Company at approximately £95M–£110M pre-money.
+
+================================================================================
+COMPANY PROFILE
+================================================================================
+
+Company:        SynthAI Analytics Ltd.
+Headquarters:   London, United Kingdom (R&D hub: Edinburgh)
+Founded:        2020
+Industry:       Enterprise Software / Supply Chain Technology
+Sector:         B2B SaaS — AI & Predictive Analytics
+Employees:      118 (as of February 2026)
+Customers:      214 paying customers across 19 countries
+
+SynthAI's platform ingests ERP, IoT sensor, logistics, and supplier data to
+generate probabilistic demand forecasts and inventory optimisation
+recommendations. Customers report an average 23% reduction in inventory holding
+costs and a 17% improvement in on-time delivery rates within 12 months of
+deployment.
+
+================================================================================
+FINANCIAL HIGHLIGHTS — FY2025 (Management Accounts, Unaudited)
+================================================================================
+
+Annual Recurring Revenue (ARR):    £14.2M (as of 31 December 2025)
+Monthly Recurring Revenue (MRR):   £1.183M
+
+ARR Growth (YoY):                  +127% (FY2024 ARR: £6.25M)
+Net Revenue Retention (NRR):       138%
+Gross Churn (Annual):              3.2%
+Logo Churn:                        4.1%
+
+Gross Margin:                      74%
+Total Revenue (FY2025):            £11.8M (recognised; ARR ≠ total revenue
+                                   due to timing of contract starts)
+
+EBITDA:                            -£3.1M (EBITDA margin: -26%)
+Burn Rate:                         £420K/month (net)
+Cash on Hand (Feb 2026):           £5.4M (approximately 13 months runway
+                                   pre-Series B close)
+
+Average Contract Value (ACV):      £66K
+Enterprise ACV (>£100K contracts): £148K (31 customers)
+Sales Cycle (SMB):                 ~45 days
+Sales Cycle (Enterprise):          ~110 days
+
+CAC Payback Period:                14 months (blended)
+LTV/CAC Ratio:                     4.8x
+
+Headcount by Function:
+  Product & Engineering:           62
+  Sales & Marketing:               28
+  Customer Success:                18
+  G&A:                             10
+
+================================================================================
+DEAL STRUCTURE
+================================================================================
+
+Round Type:             Series B — Primary Growth Equity
+Amount Sought:          £18M – £22M
+Use of Proceeds:
+  - GTM expansion (DACH, Benelux):  £8M
+  - Product R&D (AI model infra):   £6M
+  - Working capital / runway:       £4M – £8M
+
+Existing Investors:     Seed: Northgate Ventures (2021)
+                        Series A: Atlantic Horizon Fund (2023, £4.5M)
+                        Both are supportive of the Series B and Atlantic Horizon
+                        is expected to participate on a pro-rata basis.
+
+Board Composition:      5 members (2 founders, 2 investor directors, 1 independent)
+Preference Stack:       1x non-participating liquidation preference on prior rounds.
+                        Series B terms TBD with lead investor.
+
+================================================================================
+PRODUCT & TECHNOLOGY
+================================================================================
+
+Core Platform Modules:
+  1. Demand Signal Processor — ingests 40+ data sources in real time
+  2. Probabilistic Forecast Engine — proprietary ensemble ML models
+  3. Inventory Optimisation — multi-echelon safety stock calculations
+  4. Supplier Risk Monitor — NLP-based supplier news and financial health scoring
+  5. Reporting & BI layer — white-label dashboards for customer ops teams
+
+Integrations:           SAP S/4HANA, Oracle NetSuite, Microsoft Dynamics 365,
+                        Salesforce, 14 third-party logistics APIs
+
+IP:                     3 patents granted (UK, EU); 2 pending (US)
+Data Moat:              Proprietary training dataset of 2.4B supply chain
+                        events accumulated since 2020.
+
+================================================================================
+INVESTMENT HIGHLIGHTS
+================================================================================
+
+1. EXCEPTIONAL NRR OF 138%
+   Expansion revenue from upsell and cross-sell consistently outpaces churn,
+   creating a compounding ARR base without net new logo requirements.
+
+2. PRODUCT-LED LAND AND EXPAND
+   Average customer expands from 1.8 modules at contract start to 3.4 modules
+   at 24-month mark, driving ACV expansion of ~90%.
+
+3. LARGE ADDRESSABLE MARKET
+   Total addressable market (TAM) for supply chain analytics software estimated
+   at $18B by 2028 (Gartner). SynthAI currently holds <0.1% market share in
+   its core verticals (industrial manufacturing, CPG, retail).
+
+4. PROVEN ENTERPRISE TRACTION
+   Q4 2025 added 11 enterprise accounts (>£100K ACV), the strongest quarter
+   in Company history. Pipeline coverage at 3.8x for H1 2026 targets.
+
+5. STRATEGIC ACQUIRER INTEREST
+   SAP, Blue Yonder, and Kinaxis have independently approached the Company in
+   the last 18 months. The founders are not seeking a near-term exit but
+   acknowledge strategic options exist at scale.
+
+================================================================================
+PROCESS
+================================================================================
+
+IOIs expected:          14 April 2026
+Partner meetings:       May 2026
+Term sheets:            June 2026
+Close target:           August 2026
+
+================================================================================
+CONTACTS
+================================================================================
+
+Ben Hartley, Managing Director — Meridian Growth Capital
+ben.hartley@meridiangrowth.co.uk | +44 20 7946 0388
+
+This teaser is provided for information purposes only and does not constitute
+an offer to sell or solicitation to buy any securities.
